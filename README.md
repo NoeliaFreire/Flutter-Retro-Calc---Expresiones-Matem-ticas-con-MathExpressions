@@ -2,12 +2,6 @@
 
 Una calculadora moderna y funcional construida con **Flutter**, diseñada con una arquitectura modular y una interfaz estética que utiliza tipografías personalizadas de Google Fonts.
 
-## 📸 Vista Previa
-
-<p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" width="300" title="App Preview">
-</p>
-
 ## 🚀 Características
 
 * **Evaluación de Expresiones**: Utiliza la librería `math_expressions` para procesar operaciones matemáticas complejas.
